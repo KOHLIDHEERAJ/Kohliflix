@@ -3,10 +3,10 @@ import requests
 import json
 
 # Inisialisasi bot Telegram
-bot = telebot.TeleBot('TOKEN_BOT_TELEGRAM')
+bot = telebot.TeleBot('7132347463:AAEDApgLgvVMhz2wQnLGUsqC2zegT1av-Cc')
 
 # Inisialisasi API Emby
-EMBY_API_KEY = 'API_KEY_EMBy'
+EMBY_API_KEY = '9d5569fb2b52666c4df0748e1a8d743cf6f21722'
 EMBY_SERVER = 'http://localhost:8096'
 
 # Fungsi untuk mengunduh film dari server Emby
